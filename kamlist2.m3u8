@@ -57,6 +57,9 @@ http://45.5.117.57:8999/play/a02i/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS",Space
 http://45.5.117.57:8999/play/a02h/index.m3u8
 
+#EXTINF:-1 group-title="PELÍCULAS",Space HD
+http://181.78.106.127:9000/play/ca083/index.m3u8
+
 #EXTINF:-1 group-title="PELÍCULAS",Golden
 http://45.5.117.57:8999/play/a02g/index.m3u8
 
@@ -80,6 +83,11 @@ http://45.5.117.57:8999/play/a03v/index.m3u8
 #EXTINF:-1 group-title="SERIES",TNT Series
 http://45.5.117.57:8999/play/a04m/index.m3u8
 
+#EXTINF:-1 group-title="SERIES",Warner Channel
+http://181.78.106.127:9000/play/ca071/index.m3u8
+
+#EXTINF:-1 group-title="SERIES",FX
+http://181.78.106.127:9000/play/ca066/index.m3u8
 
 ############################
 # DOCUMENTALES
