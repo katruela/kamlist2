@@ -1,8 +1,14 @@
 #EXTM3U
 
-########################
-# DEPORTES
-########################
+############################
+# DEPORTES ARGENTINA
+############################
+
+#EXTINF:-1 group-title="DEPORTES",TyC Sports Noticias | 1080
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",TyC Sports Noticias | 720
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_720.m3u8
 
 #EXTINF:-1 group-title="DEPORTES",ESPN
 http://45.5.117.57:8999/play/a04g/index.m3u8
@@ -13,44 +19,54 @@ http://45.5.117.57:8999/play/a04h/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 3
 http://45.5.117.57:8999/play/a04i/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",ESPN 4
-http://45.5.117.57:8999/play/a01g/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Fox Sports
+http://181.78.106.127:9000/play/ca028/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 2
+http://181.78.106.127:9000/play/ca029/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",DSports
+http://45.5.117.57:8999/play/a03z/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",DSports 2
+http://45.5.117.57:8999/play/a05m/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",TNT Sports
+http://45.5.117.57:8999/play/a03c/index.m3u8
 
 
-########################
-# TYC SPORTS (TEST)
-########################
+############################
+# CINE PREMIUM
+############################
 
-#EXTINF:-1 group-title="DEPORTES",TyC Sports 24 | 1080
-https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",TyC Sports 24 | 720
-https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_720.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",TyC Sports 24 | AUTO
-https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24.m3u8
-
-
-########################
-# CINE
-########################
-
-#EXTINF:-1 group-title="CINE",HBO
+#EXTINF:-1 group-title="PELÍCULAS",HBO
 http://45.5.117.57:8999/play/a05q/index.m3u8
 
-#EXTINF:-1 group-title="CINE",HBO 2
+#EXTINF:-1 group-title="PELÍCULAS",HBO 2
 http://45.5.117.57:8999/play/a05r/index.m3u8
 
-#EXTINF:-1 group-title="CINE",HBO Plus
+#EXTINF:-1 group-title="PELÍCULAS",HBO Plus
 http://45.5.117.57:8999/play/a05s/index.m3u8
 
-#EXTINF:-1 group-title="CINE",HBO Xtreme
+#EXTINF:-1 group-title="PELÍCULAS",HBO Xtreme
 http://45.5.117.57:8999/play/a05u/index.m3u8
 
+#EXTINF:-1 group-title="PELÍCULAS",Cinemax
+http://45.5.117.57:8999/play/a02i/index.m3u8
 
-########################
+#EXTINF:-1 group-title="PELÍCULAS",Space
+http://45.5.117.57:8999/play/a02h/index.m3u8
+
+#EXTINF:-1 group-title="PELÍCULAS",Golden
+http://45.5.117.57:8999/play/a02g/index.m3u8
+
+#EXTINF:-1 group-title="PELÍCULAS",Studio Universal
+http://181.78.106.127:9000/play/ca088/index.m3u8
+
+
+############################
 # SERIES
-########################
+############################
 
 #EXTINF:-1 group-title="SERIES",AXN
 http://45.5.117.57:8999/play/a04d/index.m3u8
@@ -65,31 +81,20 @@ http://45.5.117.57:8999/play/a03v/index.m3u8
 http://45.5.117.57:8999/play/a04m/index.m3u8
 
 
-########################
+############################
 # DOCUMENTALES
-########################
+############################
 
 #EXTINF:-1 group-title="DOCUMENTALES",National Geographic
 http://45.5.117.57:8999/play/a04k/index.m3u8
 
 
-########################
+############################
 # INFANTIL
-########################
+############################
 
 #EXTINF:-1 group-title="INFANTIL",Disney Channel
 http://45.5.117.57:8999/play/a03u/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIL",Cartoon Network
 http://45.5.117.57:8999/play/a05p/index.m3u8
-
-
-########################
-# ENTRETENIMIENTO
-########################
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO",E!
-http://45.5.117.57:8999/play/a01k/index.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO",Comedy Central
-http://45.5.117.57:8999/play/a03f/index.m3u8
