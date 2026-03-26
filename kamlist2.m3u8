@@ -2,6 +2,7 @@
 ############################
 # CANALES TV ABIERTA ARG
 ##########################
+
 #EXTINF:-1 tvg-name="Televida Argentina" group-title="Argentina TV",Televida
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8
 
@@ -31,9 +32,6 @@ http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 group-title="Argentina TV",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Argentina TV",Televida Mendoza
-https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Argentina TV",Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
@@ -51,6 +49,7 @@ https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
 
 #EXTINF:-1 group-title="Argentina TV",TVU La Plata
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+
 ############################
 # DEPORTES ARGENTINA
 ############################
