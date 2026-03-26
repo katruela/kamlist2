@@ -9,6 +9,11 @@
 #EXTINF:-1 tvg-name="Televida Argentina" group-title="Argentina TV",Televida
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8
 
+#EXTINF:-1 tvg-name="TV Publica",TV Publica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://g2.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+
+
 #EXTINF:-1 group-title="DEPORTES",TyC Sports Noticias | 1080
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 
