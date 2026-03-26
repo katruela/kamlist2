@@ -6,22 +6,18 @@
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8
 
 
+#EXTINF:-1 group-title="Argentina TV",Televida
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8
 #EXTINF:-1 group-title="Argentina TV",America TV
-#EXTVLCOPT:http-referrer=https://www.americatv.com.ar/
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
-
+https://prepublish.f.qaotic.net/a07/americahls-100056/master.m3u8
 #EXTINF:-1 group-title="Argentina TV",TV Publica
-https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
-
+https://g4.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/master.m3u8
 #EXTINF:-1 group-title="Argentina TV",El Trece
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-
 #EXTINF:-1 group-title="Argentina Noticias",A24
-https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
-
+https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/master.m3u8
 #EXTINF:-1 group-title="Argentina Noticias",Cronica TV
-https://g3.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
-
+https://g3.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 
 ############################
 # DEPORTES ARGENTINA
