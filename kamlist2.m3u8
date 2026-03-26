@@ -7,6 +7,7 @@ https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/televidaar/li
 
 
 #EXTINF:-1 group-title="Argentina TV",America TV
+#EXTVLCOPT:http-referrer=https://www.americatv.com.ar/
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 
 #EXTINF:-1 group-title="Argentina TV",TV Publica
