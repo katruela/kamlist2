@@ -139,6 +139,58 @@ http://181.78.106.127:9000/play/ca071/index.m3u8
 #EXTINF:-1 group-title="SERIES",FX
 http://181.78.106.127:9000/play/ca066/index.m3u8
 
+##############################################
+# PELI  Y SERIES  (OTRA LISTA )
+###############################################
+
+# --- SECCIÓN CINE Y SERIES ---
+#EXTINF:-1,HBO Xtreme
+http://45.5.117.57:8999/play/a05u/index.m3u8
+#EXTINF:-1,HBO Plus
+http://45.5.117.57:8999/play/a05s/index.m3u8
+#EXTINF:-1,HBO Family
+https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1,Star Channel HD (Ex Fox)
+http://38.180.133.31:8000/play/a0p1/index.m3u8
+#EXTINF:-1,Warner Channel
+http://45.5.117.57:8999/play/a02u/index.m3u8
+#EXTINF:-1,Universal Cinema
+http://45.5.117.57:8999/play/a04s/index.m3u8
+#EXTINF:-1,Universal Premiere
+http://200.115.96.66:4000/play/a035/index.m3u8
+#EXTINF:-1,Space HD
+http://45.181.122.46:8090/play/a00h
+#EXTINF:-1,TNT Series
+http://45.5.117.57:8999/play/a04m/index.m3u8
+#EXTINF:-1,Cinecanal HD
+http://38.180.133.31:8000/play/a0p4/index.m3u8
+#EXTINF:-1,Cinemax
+http://45.5.119.43:4000/play/a0il/index.m3u8
+#EXTINF:-1,AXN HD
+http://190.60.37.118:4000/play/a03d
+
+##############################
+ # --- SECCIÓN DEPORTES ---
+##############################
+#EXTINF:-1,ESPN 1 HD
+http://181.205.130.194:4000/play/a07j
+#EXTINF:-1,ESPN 2 HD
+http://181.78.82.6:46090/play/a00i/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://181.78.82.6:46090/play/a00v/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://45.5.117.57:8999/play/a01g/index.m3u8
+#EXTINF:-1,ESPN 5 HD
+http://38.41.8.1:8000/play/a07b
+#EXTINF:-1,ESPN 6 HD
+http://181.78.82.6:46090/play/a00w/index.m3u8
+#EXTINF:-1,DSports (Directv)
+http://201.230.121.85:8000/play/a0yv/index.m3u8
+#EXTINF:-1,Win Sports+ (Premium)
+http://tvstar.icu:8080/live/scottiecheeze@yahoo.com/7vyh8aDqBq/78697.ts
+#EXTINF:-1,tyc 
+https://iptvcat.com/my_list/s/a7ac0f6835c72167179784e0fe0b9695.m3u8
+ 
 ############################
 # DOCUMENTALES
 ############################
