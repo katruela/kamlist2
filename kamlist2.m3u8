@@ -264,6 +264,8 @@ http://181.205.130.194:4000/play/a07n
 #EXTINF:-1,CINECANAL HD
 http://38.180.133.31:8000/play/a0p4/index.m3u8
 
+#EXTINF:-1,TLC
+http://181.205.130.194:4000/play/a07p
 
 
 
