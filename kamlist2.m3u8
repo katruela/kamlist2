@@ -5,20 +5,52 @@
 #EXTINF:-1 tvg-name="Televida Argentina" group-title="Argentina TV",Televida
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8
 
+#EXTM3U
 
-#EXTINF:-1 group-title="Argentina TV",Televida
-https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8
-#EXTINF:-1 group-title="Argentina TV",America TV
-https://prepublish.f.qaotic.net/a07/americahls-100056/master.m3u8
-#EXTINF:-1 group-title="Argentina TV",TV Publica
-https://g4.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/master.m3u8
+#EXTINF:-1 group-title="Argentina TV",América
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
+
+#EXTINF:-1 group-title="Argentina TV",TV Pública
+https://g4.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
+
+#EXTINF:-1 group-title="Argentina TV",Telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+
 #EXTINF:-1 group-title="Argentina TV",El Trece
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 group-title="Argentina Noticias",A24
-https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/master.m3u8
-#EXTINF:-1 group-title="Argentina Noticias",Cronica TV
-https://g3.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 
+#EXTINF:-1 group-title="Argentina Noticias",A24
+https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
+
+#EXTINF:-1 group-title="Argentina Noticias",Crónica HD
+https://g3.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+
+#EXTINF:-1 group-title="Argentina Noticias",Canal 26
+http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-1 group-title="Argentina TV",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Argentina TV",Televida Mendoza
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Argentina TV",Canal 9 Litoral
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
+#EXTINF:-1 group-title="Argentina TV",Canal 7 Neuquén
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Argentina TV",Canal 10 Córdoba
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Argentina TV",Canal 4 Jujuy
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Argentina TV",Canal Provincial
+https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
+
+#EXTINF:-1 group-title="Argentina TV",TVU La Plata
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 ############################
 # DEPORTES ARGENTINA
 ############################
