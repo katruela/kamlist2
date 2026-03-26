@@ -140,10 +140,9 @@ http://181.78.106.127:9000/play/ca071/index.m3u8
 http://181.78.106.127:9000/play/ca066/index.m3u8
 
 ##############################################
-# PELI  Y SERIES  (OTRA LISTA )
+# --- SECCIÓN CINE Y SERIES --- (OTRA LISTA )
 ###############################################
 
-# --- SECCIÓN CINE Y SERIES ---
 #EXTINF:-1,HBO Xtreme
 http://45.5.117.57:8999/play/a05u/index.m3u8
 #EXTINF:-1,HBO Plus
@@ -247,6 +246,17 @@ http://vipketseyket.top:8080/VIP017921761312332102/f455784d27ea/4815
 http://vipketseyket.top:8080/VIP017921761312332102/f455784d27ea/4821
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TYC SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="ARGENTINA SPORTS",ARG: TYC SPORTS
 http://vipketseyket.top:8080/VIP017921761312332102/f455784d27ea/4822
+#############################################
+AGRGADOS RECIENTES
+##############################################
+
+#EXTINF:-1,TURBO
+http://181.78.12.119:16123/play/ch24/index.m3u8
+
+
+
+
+
 
 
 
