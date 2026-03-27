@@ -6,6 +6,9 @@
 #EXTINF:-1 tvg-name="Televida Argentina" group-title="Argentina TV",Televida
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8
 
+#EXTINF:-1 tvg-id="elsietetv.ar" tvg-name="El Siete TV" group-title="Argentina",El Siete TV
+https://www.youtube.com/@elsietetv/live
+
 #EXTINF:-1 tvg-name="El Siete TV" group-title="Argentina",El Siete TV
 https://www.youtube.com/watch?v=Vh8xmLBJtR8
 
