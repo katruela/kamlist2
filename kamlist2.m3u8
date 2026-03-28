@@ -24,7 +24,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 group-title="Argentina TV",El Trece
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 group-title="TN", Noticias
+#EXTINF:-1 group-title="Argentina", TN
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 
 #EXTINF:-1 group-title="Argentina Noticias",A24
