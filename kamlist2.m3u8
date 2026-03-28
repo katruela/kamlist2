@@ -237,5 +237,8 @@ http://181.205.130.194:4000/play/a07p
 #EXTINF:-1, PELO LIBRE
 
 https://j8nte.envivoslatam.org/disney4/tracks-v1a1/mono.m3u8?ip=181.94.6.148&token=d13dd87c4e101cf616d8d2520676bfda01e846dc-25-1774770130-1774716130
+#EXTINF:-1, PELO LIBRE  FOX SPORT
+https://j8nte.envivoslatam.org/foxsports/tracks-v1a1/mono.m3u8?ip=181.94.6.148&token=d38e301dc56aad4750f5634126b64501ff923de5-a9-1774771134-1774717134
+
 
 
