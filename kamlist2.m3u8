@@ -246,5 +246,8 @@ https://j8nte.envivoslatam.org/disney4/tracks-v1a1/mono.m3u8?ip=181.94.6.148&tok
 #EXTINF:-1, SPORT TD
 https://j8nte.envivoslatam.org/foxsports/tracks-v1a1/mono.m3u8?ip=181.94.6.148&token=d38e301dc56aad4750f5634126b64501ff923de5-a9-1774771134-1774717134
 
+#EXTINF:-1, Directv SPORT TD
+https://smjt9q.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=181.94.6.148&token=ab83327fcceef34b364d78c7190492cf518f8280-6c-1774779388-1774725388
+
 
 
