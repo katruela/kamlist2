@@ -214,7 +214,7 @@ http://45.5.117.57:8999/play/a03u/index.m3u8
 http://45.5.117.57:8999/play/a05p/index.m3u8
 
 #############################################
-AGRGADOS RECIENTES
+# AGRGADOS RECIENTES
 ##############################################
 
 #EXTINF:-1,TURBO
@@ -237,10 +237,13 @@ http://38.180.133.31:8000/play/a0p4/index.m3u8
 
 #EXTINF:-1,TLC
 http://181.205.130.194:4000/play/a07p
-#EXTINF:-1, PELO LIBRE
-
+#############################################
+# AGRGADOS RECIENTES TIEMPO  DESCUENTO
+##############################################
+#EXTINF:-1, ESPN TD
 https://j8nte.envivoslatam.org/disney4/tracks-v1a1/mono.m3u8?ip=181.94.6.148&token=d13dd87c4e101cf616d8d2520676bfda01e846dc-25-1774770130-1774716130
-#EXTINF:-1, SPORT
+
+#EXTINF:-1, SPORT TD
 https://j8nte.envivoslatam.org/foxsports/tracks-v1a1/mono.m3u8?ip=181.94.6.148&token=d38e301dc56aad4750f5634126b64501ff923de5-a9-1774771134-1774717134
 
 
